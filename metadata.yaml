@@ -1,0 +1,31 @@
+_repo: The-Lily-and-the-Totemor-The-Huguenots-in-Florida_44337
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44337-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Simms, William Gilmore
+    aliases:
+    - Simms, W. Gilmore (William Gilmore)
+    - Cooper, Frank
+    birthdate: 1806
+    deathdate: 1870
+    gutenberg_agent_id: '440'
+    url: http://www.gutenberg.org/2009/agents/440
+    wikipedia: http://en.wikipedia.org/wiki/William_Gilmore_Simms
+description: ''
+gutenberg_issued: '2013-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44337'
+  lccn: 08013059
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Florida -- History -- Huguenot colony, 1562-1565 -- Fiction'
+title: The Lily and the Totem; or, The Huguenots in Florida
+url: http://www.gutenberg.org/ebooks/44337
